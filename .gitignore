@@ -1,5 +1,5 @@
 # tmp 
-tmp/
+/tmp/
 
 # _old, _backup 
 *_old
@@ -7,4 +7,4 @@ tmp/
 
 # Thumbs.db  & .DS_Store 
 Thumbs.db
-.DS_Store
+.DS_Store*
